@@ -1,4 +1,4 @@
-package Sample;
+package Programs;
 
 public class Dog implements Animal {
 	
